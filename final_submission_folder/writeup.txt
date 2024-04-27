@@ -1,0 +1,11 @@
+- We did this assignment in a group of 2
+- Team Members are Yuyutsu Saini (2020MT60571) and Ekansh Singh (2020EE10490)
+- We used the flan-T5-base model by combining the eLife_train.jsonl and PLOS_train.jsonl files and then fine tuned the complete model on the combined dataset
+- We discussed this assignment with Atif Anwer (2020EE10479) and Tanish Gupta (2020CS10397)
+- We used the Hugging Face library for the implementation of the model
+- We used the Kaggle for the evaluations of the model
+- We used HPC for the training of the model 
+- It was a time consuming assignment and we learned a lot from this assignment
+- We faced a lot of challenges in the implementation of the model which we subsequently overcame :)
+- We have also uploaded a requirements.txt file for the installation of the required libraries with specific versions for the implementation of the model in the same folder
+- Please refer to that and install them before running the code
