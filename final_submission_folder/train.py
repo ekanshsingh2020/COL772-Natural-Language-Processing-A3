@@ -182,7 +182,7 @@ training_args =Seq2SeqTrainingArguments(
     save_total_limit=2,
     load_best_model_at_end=True,
     # push to hub parameters
-    report_to='None',
+    report_to='none',
     push_to_hub=False,
 )
 
